@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm MD Mahmudul Hasan 👋
 
-<!--
-**mdmahmudul3093/mdmahmudul3093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Computer Networking Intern | CCNA Learner | Aspiring Network Engineer
 
-Here are some ideas to get you started:
+I am a Diploma in Computer Engineering student currently gaining practical experience in **Computer Networking**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on building strong skills in **networking, routing & switching, network security, Linux, and network automation**.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Diploma in Computer Engineering
+- 🌐 Currently doing a Computer Networking internship
+- 📚 Studying CCNA and networking concepts
+- 🔧 Practicing Cisco networking with Packet Tracer
+- 🐧 Learning Linux networking
+- 🐍 Learning Python for network automation
+- 🔐 Interested in Network Security
+- 🚀 Goal: Become a skilled Network Engineer
+
+---
+
+## 🛠️ Networking Skills
+
+### Networking
+- TCP/IP
+- OSI Model
+- IPv4 Networking
+- Subnetting
+- VLAN
+- Inter-VLAN Routing
+- Static Routing
+- RIP
+- OSPF
+- EIGRP
+- DHCP
+- ACL
+
+### Tools & Technologies
+- Cisco Packet Tracer
+- Linux
+- Wireshark
+- Git & GitHub
+- Python
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Cisco Networking Labs
+
+Practical Cisco Packet Tracer labs covering:
+
+- VLAN
+- Inter-VLAN Routing
+- Static Routing
+- RIP
+- OSPF
+- EIGRP
+- DHCP
+- ACL
+
+🔗 [View Cisco Networking Labs](https://github.com/mdmahmudul3093/Cisco-Networking-Labs)
+
+---
+
+## 🎯 Current Focus
+
+```text
+Cisco Networking
+       ↓
+      CCNA
+       ↓
+Network Troubleshooting
+       ↓
+ Network Security
+       ↓
+Network Automation
+       ↓
+ Network Engineer
